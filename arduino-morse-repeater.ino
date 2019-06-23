@@ -12,7 +12,7 @@
  * ' ' -> space between letters (3 dots)
  * '/' -> space betweeen words (same effect as CR or LF) (7 dots)
  * 
- * Author: Stefan Szaniszlo <stefan@szaniszlo.info>
+ * Author: Stefan Szaniszlo <stefan@briskware.com>
  */
 int time_unit_ms = 110; //aviation navaid dot duration in ms.
 int dot_ms = time_unit_ms;
